@@ -1,12 +1,11 @@
-# Ứng dụng iFan - Theo chân thần tượng
+# Ứng dụng Chat 
 
-Ứng dụng cập nhật các show ca nhạc lớn diễn ra trong nước, thông tin chi tiết thời gian, địa điểm, giá vé...
-Theo dõi các show diễn của các ca sĩ, nghệ sĩ yêu thích.
+Ứng dụng sử dụng realtime database giúp nhắn tin với những người khác.
 
 ## Nội dung
 1. [Chức năng](#chức-năng)
 
-   1. [Đăng nhập / Đăng kí](#đăng-nhập-/-đăng-kí)
+   1. [Đăng nhập / Đăng kí / Reset mật khẩu](#đăng-nhập-/-đăng-kí-/-reset-mật-khẩu)
 
    1. [Xem show diễn hot](#xem-show-diễn-hot)
    
