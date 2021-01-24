@@ -34,7 +34,8 @@
    <p align="center">
    <img src="ChatApplication/screenshots/start.png" height = "480" width="270"> <img src="ChatApplication/screenshots/dangnhap.png" height = "480" width="270"> <img src="ChatApplication/screenshots/dangki.png" height = "480" width="270">
    </p>
-### Reset mật khẩ
+### Reset mật khẩu
+   * Reset mật khẩu
 ### Xem show diễn hot
    * Top show
   
