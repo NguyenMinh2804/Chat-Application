@@ -6,7 +6,7 @@ Theo dõi các show diễn của các ca sĩ, nghệ sĩ yêu thích.
 ## Nội dung
 1. [Chức năng](#chức-năng)
    
-   1. [Đăng nhập / Đăng kí](#đăng-nhập-/-đăng/kí)
+   1. [Đăng nhập / Đăng kí](#dăng-nhập-/-dăng/kí)
 
    1. [Xem show diễn hot](#xem-show-diễn-hot)
    
