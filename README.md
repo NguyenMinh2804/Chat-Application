@@ -28,7 +28,7 @@
 1. [Giấy phép](#giấy-phép)
 
 ## Chức năng
-### Đăng nhập / Đăng kí
+### Đăng nhập / Đăng kí / Reset mật khẩu
    * Đăng nhập
   
    * Đăng kí
