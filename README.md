@@ -5,7 +5,7 @@
 ## Nội dung
 1. [Chức năng](#chức-năng)
    
-   1. [Đăng nhập, Đăng kí, Reset mật khẩu](#tết)
+   1. [Đăng nhập, Đăng ký](#đăng-nhập,-đăng-ký)
 
    1. [Xem show diễn hot](#xem-show-diễn-hot)
    
@@ -28,7 +28,7 @@
 1. [Giấy phép](#giấy-phép)
 
 ## Chức năng
-### Tết
+### Đăng nhập, đăng ký
 ### Xem show diễn hot
    * Top show
   
