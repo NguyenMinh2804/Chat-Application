@@ -3,7 +3,7 @@
 Ứng dụng sử dụng realtime database giúp nhắn tin với những người khác.
 
 ## Nội dung
-1. [Chức năng](#chức-năng)
+1. [Chức năng](#chức-năn)
 
    1. [Đăng nhập / Đăng kí / Reset mật khẩu](#đăng-nhập-/-đăng-kí-/-reset-mật-khẩu)
 
@@ -27,7 +27,7 @@
 
 1. [Giấy phép](#giấy-phép)
 
-## Chức năng
+## Chức năn
 ### Đăng nhập / Đăng kí / Reset mật khẩu
    * Đăng nhập
   
