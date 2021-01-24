@@ -7,7 +7,7 @@
    
    1. [Đăng nhập, Đăng ký](#đăng-nhập-đăng-ký)
 
-   1. [Reset mật khẩu](#reset-mật-khẩu)
+   1. [Reset mật khẩu](#reset-mật-khẩ)
    
    1. [Xem show ca sĩ yêu thích](#xem-show-ca-sĩ-yêu-thích)
 
@@ -34,7 +34,7 @@
    <p align="center">
    <img src="ChatApplication/screenshots/start.png" height = "480" width="270"> <img src="ChatApplication/screenshots/dangnhap.png" height = "480" width="270"> <img src="ChatApplication/screenshots/dangki.png" height = "480" width="270">
    </p>
-### Reset mật khẩu
+### Reset mật khẩ
 ### Xem show diễn hot
    * Top show
   
