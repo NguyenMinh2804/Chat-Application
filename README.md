@@ -3,9 +3,9 @@
 Ứng dụng sử dụng realtime database giúp nhắn tin với những người khác.
 
 ## Nội dung
-1. [Chức năng](#chức-năn)
+1. [Chức năng](#chức-năng)
 
-   1. [Đăng nhập / Đăng kí / Reset mật khẩu](#đăng-nhập-/-đăng-kí-/-reset-mật-khẩu)
+   1. [Đăng nhập / Đăng kí / Reset mật khẩu](#đăng-nhập-/-đăng-kí-/-reset)
 
    1. [Xem show diễn hot](#xem-show-diễn-hot)
    
@@ -27,8 +27,8 @@
 
 1. [Giấy phép](#giấy-phép)
 
-## Chức năn
-### Đăng nhập / Đăng kí / Reset mật khẩu
+## Chức năng
+### Đăng nhập / Đăng kí / Reset
    * Đăng nhập
   
    * Đăng kí
