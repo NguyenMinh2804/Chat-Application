@@ -81,34 +81,20 @@
 ## Yêu cầu thiết bị
 -Android:
 
-   +Android studio : 
+   +Android studio : 4.0.1
    
-   +Gradle : 
+   +Gradle : 6.1.1
    
    +Min sdk : 16
 
-   +Target sdk : 
+   +Target sdk : 30
 
 
 ## Thư viện và công nghệ
 
 - Language : Java
 
-- FrameWork : 
-
 - Database: Firebase
-
-* react-native - https://github.com/facebook/react-native
-
-* react-navigation - https://github.com/react-navigation/react-navigation
-
-* react-native-maps - https://github.com/react-native-community/react-native-maps
-
-* react-native-swiper - https://github.com/leecade/react-native-swiper
-
-* react-native-linear-gradient - https://github.com/react-native-community/react-native-linear-gradient
-
-* react-native-view-more-text - https://github.com/nlt2390/react-native-view-more-text
 
 ## Tác giả
 Nguyễn Văn Minh - 1752057@gm.uit.edu.vn
