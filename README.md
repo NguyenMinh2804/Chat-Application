@@ -37,7 +37,10 @@
    
 ### Reset mật khẩu
    * Reset mật khẩu
-    
+    <p align="center">
+   <img src="ChatApplication/screenshots/reset.png" height = "480" width="270">
+   </p>
+   
 ### Xem show ca sĩ yêu thích
    * Thông tin ca sĩ
   
