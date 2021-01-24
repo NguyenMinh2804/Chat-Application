@@ -40,8 +40,10 @@
    <img src="ChatApplication/screenshots/reset.png" height = "480" width="270">
    </p>
    
-### Chat
-   * Chat
+### Tin nhắn   
+   * Trạng thái hoạt động
+   
+   * Tin nhắn cuối cùng
    
    <p align="center">
    <img src="ChatApplication/screenshots/chat.png" height = "480" width="270">
