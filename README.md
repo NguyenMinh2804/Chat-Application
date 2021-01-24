@@ -5,7 +5,7 @@
 ## Nội dung
 1. [Chức năng](#chức-năng)
 
-   1. [Đăng nhập / Đăng kí / Reset mật khẩu](#đăng-nhập-/-đăng-kí-/-reset)
+   1. [Đăng nhập / Đăng kí / Reset mật khẩu](#đăng-nhập-/-đăng-kí)
 
    1. [Xem show diễn hot](#xem-show-diễn-hot)
    
@@ -28,7 +28,7 @@
 1. [Giấy phép](#giấy-phép)
 
 ## Chức năng
-### Đăng nhập / Đăng kí / Reset
+### Đăng nhập / Đăng kí
    * Đăng nhập
   
    * Đăng kí
