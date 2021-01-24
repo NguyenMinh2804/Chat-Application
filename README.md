@@ -7,8 +7,6 @@ Theo dõi các show diễn của các ca sĩ, nghệ sĩ yêu thích.
 1. [Chức năng](#chức-năng)
 
    1. [Đăng nhập / Đăng kí](#đăng-nhập-/-đăng-kí)
-   
-   1. [Reset](#reset)
 
    1. [Xem show diễn hot](#xem-show-diễn-hot)
    
@@ -39,9 +37,6 @@ Theo dõi các show diễn của các ca sĩ, nghệ sĩ yêu thích.
    <p align="center">
    <img src="screenshots/login.png" height = "480" width="270"> <img src="screenshots/register.png" height = "480" width="270">
    </p>
-   ### Reset
-   *tedss
-  
     
 ### Xem show diễn hot
    * Top show
