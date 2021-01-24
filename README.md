@@ -9,11 +9,13 @@
 
    1. [Reset mật khẩu](#reset-mật-khẩu)
    
-   1. [Chat](#chat)
+   1. [Tin nhắn](#tin-nhắn)
    
    1. [Danh sách người dùng](#danh-sách-người-dùng)
    
    1. [Thông tin cá nhân](#thông-tin-cá-nhân)
+   
+   1. [Chat](#chat)
    
 1. [Yêu cầu thiết bị](#yêu-cầu-thiết-bị)
 
@@ -65,6 +67,16 @@
    <p align="center">
    <img src="ChatApplication/screenshots/profile.png" height = "480" width="270">
    </p>
+   
+### Chat
+   * Chat
+   
+   * Trạng thái tin nhắn
+   
+   <p align="center">
+   <img src="ChatApplication/screenshots/chatr.png" height = "480" width="270">
+   </p>
+ 
    
 ## Yêu cầu thiết bị
 -Android:
