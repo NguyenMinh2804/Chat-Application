@@ -40,13 +40,8 @@ Theo dõi các show diễn của các ca sĩ, nghệ sĩ yêu thích.
    <img src="screenshots/login.png" height = "480" width="270"> <img src="screenshots/register.png" height = "480" width="270">
    </p>
    ### Reset
-   * Đăng nhập
+   *tedss
   
-   * Đăng kí
-   
-   <p align="center">
-   <img src="screenshots/login.png" height = "480" width="270"> <img src="screenshots/register.png" height = "480" width="270">
-   </p>
     
 ### Xem show diễn hot
    * Top show
