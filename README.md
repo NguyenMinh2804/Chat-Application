@@ -29,17 +29,7 @@ Theo dõi các show diễn của các ca sĩ, nghệ sĩ yêu thích.
 1. [Giấy phép](#giấy-phép)
 
 ## Chức năng
-### Test
-
 ### Đăng nhập / Đăng kí
-   * Đăng nhập
-  
-   * Đăng kí
-   
-   <p align="center">
-   <img src="screenshots/login.png" height = "480" width="270"> <img src="screenshots/register.png" height = "480" width="270">
-   </p>
-    
 ### Xem show diễn hot
    * Top show
   
