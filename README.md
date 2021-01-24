@@ -9,15 +9,13 @@
 
    1. [Reset mật khẩu](#reset-mật-khẩu)
    
-   1. [Xem show ca sĩ yêu thích](#xem-show-ca-sĩ-yêu-thích)
-
-   1. [Tìm kiếm show diễn](#tìm-kiếm-show-diễn)
+   1. [Tin nhắn](#tin-nhắn)
    
-   1. [Xem lịch diễn các show trong tháng](#xem-lịch-diễn-các-show-trong-tháng)
-
-   1. [Lưu show diễn, ca sĩ yêu thích](#xem-show-diễn,-ca-sĩ-yêu-thích)
-
-   1. [Xem thông tin tài khoản](#xem-thông-tin-tài-khoản)
+   1. [Danh sách người dùng](#danh-sách-người-dùng)
+   
+   1. [Thông tin cá nhân](#thông-tin-cá-nhân)
+   
+   1. [Chat](#chat)
    
 1. [Yêu cầu thiết bị](#yêu-cầu-thiết-bị)
 
@@ -30,58 +28,55 @@
 ## Chức năng
 ### Đăng nhập Đăng ký
    * Đăng nhập
+   
    * Đăng ký
+   
    <p align="center">
    <img src="ChatApplication/screenshots/start.png" height = "480" width="270"> <img src="ChatApplication/screenshots/dangnhap.png" height = "480" width="270"> <img src="ChatApplication/screenshots/dangki.png" height = "480" width="270">
    </p>
    
 ### Reset mật khẩu
    * Reset mật khẩu
-    <p align="center">
+   
+   <p align="center">
    <img src="ChatApplication/screenshots/reset.png" height = "480" width="270">
    </p>
    
-### Xem show ca sĩ yêu thích
-   * Thông tin ca sĩ
-  
-   * Các show diễn của ca sĩ
-     
-   <p align="center">
-   <img src="screenshots/singer.png" height = "480" width="270"> <img src="screenshots/list.png" height = "480" width="270">
-   </p>
-
-### Tìm kiếm show diễn
-   * Tìm theo tên
-  
-   * Tìm trên map
+### Tin nhắn   
+   * Trạng thái hoạt động
+   
+   * Tin nhắn cuối cùng
    
    <p align="center">
-   <img src="screenshots/search.png" height = "480" width="270"> <img src="screenshots/search map.png" height = "480" width="270">
-   </p>
-
-### Xem lịch diễn các show trong tháng
+   <img src="ChatApplication/screenshots/chat.png" height = "480" width="270">
+   
+### Danh sách người dùng
+   * Danh sách người dùng
+   
+   * Tìm kiếm người dung
    
    <p align="center">
-   <img src="screenshots/schedule.png" height = "480" width="270">
+   <img src="ChatApplication/screenshots/user.png" height = "480" width="270">
    </p>
 
-### Lưu show diễn, ca sĩ yêu thích
-   * Xem show quan tâm
-  
-   * Xem ca sĩ yêu thích
+### Thông tin cá nhân
+   * Thông tin cá nhân
+   
+   * Đổi ảnh đại diện
    
    <p align="center">
-   <img src="screenshots/interest.png" height = "480" width="270"> <img src="screenshots/list show 1.png" height = "480" width="270"> <img src="screenshots/list singer.png" height = "480" width="270">
+   <img src="ChatApplication/screenshots/profile.png" height = "480" width="270">
    </p>
-
-### Xem thông tin tài khoản
-   * Xem chính sách, liên lạc
-  
-   * Đổi thông tin tài khoản
+   
+### Chat
+   * Chat
+   
+   * Trạng thái tin nhắn
    
    <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270"> <img src="screenshots/change info.png" height = "480" width="270">
+   <img src="ChatApplication/screenshots/chatr.png" height = "480" width="270">
    </p>
+ 
    
 ## Yêu cầu thiết bị
 -Android:
