@@ -7,7 +7,7 @@
    
    1. [Đăng nhập, Đăng ký](#đăng-nhập-đăng-ký)
 
-   1. [Xem show diễn hot](#xem-show-diễn-hot)
+   1. [Reset mật khẩu](#reset-mật-khẩu)
    
    1. [Xem show ca sĩ yêu thích](#xem-show-ca-sĩ-yêu-thích)
 
@@ -29,6 +29,12 @@
 
 ## Chức năng
 ### Đăng nhập Đăng ký
+   * Đăng nhập
+   * Đăng ký
+   <p align="center">
+   <img src="screenshots/start.png" height = "480" width="270"> <img src="screenshots/dangnhap.png" height = "480" width="270"> <img src="screenshots/dangki.png" height = "480" width="270">
+   </p>
+### Reset mật khẩu
 ### Xem show diễn hot
    * Top show
   
