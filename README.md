@@ -81,25 +81,22 @@
 ## Yêu cầu thiết bị
 -Android:
 
-   +Android studio : 3.0.1
+   +Android studio : 
+   
+   +Gradle : 
+   
+   +Min sdk : 16
 
-   +Gradle : 4.1
+   +Target sdk : 
 
-   +Min sdk : 19
-
-   +Target sdk : 26
-
--iOS:
-
-   +iOS: 8.0
 
 ## Thư viện và công nghệ
 
-- Language : Javascript
+- Language : Java
 
-- FrameWork : React Native 0.55.4
+- FrameWork : 
 
-- Database: phpMyAdmin
+- Database: Firebase
 
 * react-native - https://github.com/facebook/react-native
 
@@ -114,11 +111,7 @@
 * react-native-view-more-text - https://github.com/nlt2390/react-native-view-more-text
 
 ## Tác giả
-Lê Trọng Tín - 15520893@gm.uit.edu.vn
-
-Huỳnh Việt Tiến - 15520877@gm.uit.edu.vn
-
-Hồ Hoàng Phi Long - 15520439@gm.uit.edu.vn
+Nguyễn Văn Minh - 1752057@gm.uit.edu.vn
 
 ## Giấy phép
 
