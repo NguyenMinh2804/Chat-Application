@@ -32,7 +32,7 @@
    * Đăng nhập
    * Đăng ký
    <p align="center">
-   <img src="screenshots/start.png" height = "480" width="270"> <img src="screenshots/dangnhap.png" height = "480" width="270"> <img src="screenshots/dangki.png" height = "480" width="270">
+   <img src="ChatApplication/screenshots/start.png" height = "480" width="270"> <img src="ChatApplication/screenshots/dangnhap.png" height = "480" width="270"> <img src="ChatApplication/screenshots/dangki.png" height = "480" width="270">
    </p>
 ### Reset mật khẩu
 ### Xem show diễn hot
