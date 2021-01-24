@@ -36,7 +36,7 @@
 ### Reset mật khẩu
    * Reset mật khẩu
    
-    <p align="center">
+   <p align="center">
    <img src="ChatApplication/screenshots/reset.png" height = "480" width="270">
    </p>
    
@@ -44,7 +44,7 @@
    * Chat
    
    <p align="center">
-   <img src="screenshots/chat.png" height = "480" width="270">
+   <img src="ChatApplication/screenshots/chat.png" height = "480" width="270">
    
 ### Danh sách người dùng
    * Danh sách người dùng
@@ -52,7 +52,7 @@
    * Tìm kiếm người dung
    
    <p align="center">
-   <img src="screenshots/user.png" height = "480" width="270">
+   <img src="ChatApplication/screenshots/user.png" height = "480" width="270">
    </p>
 
 ### Thông tin cá nhân
@@ -61,7 +61,7 @@
    * Đổi ảnh đại diện
    
    <p align="center">
-   <img src="screenshots/profile.png" height = "480" width="270">
+   <img src="ChatApplication/screenshots/profile.png" height = "480" width="270">
    </p>
    
 ## Yêu cầu thiết bị
